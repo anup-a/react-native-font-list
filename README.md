@@ -5,16 +5,11 @@ A basic React Native module that exposes the operating system's installed fonts 
 ### Add Dependency
 Yarn:
 
-`yarn add react-native-font-list`
+`yarn add @anup22/react-native-font-list`
 
 NPM:
 
-`npm install react-native-font-list --save`
-
-### Update Pods (iOS)
-`cd ios && pod install`
-
-That's it! You are ready to use FontList.
+`npm install @anup22/react-native-font-list --save`
 
 ## Usage
 ```javascript
